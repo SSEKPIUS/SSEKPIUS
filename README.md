@@ -5,7 +5,7 @@
 - 📫 How to reach me ,  email me Ssekweyamapius@gmail.com
 
 
-<figure><embed src="https://wakatime.com/share/@0f5afda0-c4e0-4fcf-b8d7-43bb6ea76694/97761dac-4665-48cc-ac84-aee8d93e4e54.svg"></embed></figure>
+<a href="https://wakatime.com/badge/gitlab/ssekweyamapius/futurelink_technologies_api"><img src="https://wakatime.com/badge/gitlab/ssekweyamapius/futurelink_technologies_api.svg" alt="wakatime"></a>
 <!---
 SSEKPIUS/SSEKPIUS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
