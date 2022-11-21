@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @SSEKPIUS
-- 👀 I’m interested in emerging technologies
-- 🌱 I’m currently knowledgeable Node, Vue, React.......
-- 💞️ I’m looking to collaborate on any areas of keen interest, 
-- 📫 How to reach me ,  email me Ssekweyamapius@gmail.com
+Hi! My name is Pius, I'm a full-stack software engineer who specializes in using JavaScript, React, Redux, and Rails to build software solutions for small and medium businesses. I am passionate about growing together as a team because we can grow faster when the entire team grows, and pivot to embrace new skills. 
 
 
-<a href="https://wakatime.com/badge/gitlab/ssekweyamapius/futurelink_technologies_api"><img src="https://wakatime.com/badge/gitlab/ssekweyamapius/futurelink_technologies_api.svg" alt="wakatime"></a>
 <!---
 SSEKPIUS/SSEKPIUS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
