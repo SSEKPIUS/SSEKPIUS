@@ -1,4 +1,4 @@
-Hi! My name is Pius, I'm a full-stack software engineer who specializes in using JavaScript, React, Redux, and Rails to build software solutions for small and medium businesses. I am passionate about growing together as a team because we can grow faster when the entire team grows, and pivot to embrace new skills. 
+Hi! My name is Pius, from Uganda 🇺🇬.  I'm a full-stack software engineer who specializes in using JavaScript, React, Redux, and Rails to build software solutions for small and medium businesses. I am passionate ❤️ about growing teams because we can grow faster when the entire team grows, and pivot to embrace new skills. 
 
 
 <!---
