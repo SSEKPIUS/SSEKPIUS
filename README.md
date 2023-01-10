@@ -25,7 +25,7 @@ Hi! My name is Pius, from Uganda 🇺🇬.  I'm a full-stack software engineer w
 ### Contact me
 - Gmail: [@Gmail](ssekweyamapius@gmail.com)
 - Twitter: [@twitterhandle](https://twitter.com/SSEK_PIUS)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/pius-ssekweyama-23665794)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/piusssekweyama/)
 
 <!---
 SSEKPIUS/SSEKPIUS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
