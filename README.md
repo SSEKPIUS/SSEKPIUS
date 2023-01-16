@@ -12,14 +12,14 @@ Hi! My name is Pius, from Uganda 🇺🇬.  I'm a full-stack software engineer w
 </details>
 
 ### Wakatime Stats
-<details>
-<summary>Expand to see details of my daily coding activities from my Code Editor</summary>
+<details open>
+<summary>Codding Statistics</summary>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@0f5afda0-c4e0-4fcf-b8d7-43bb6ea76694/4e220cef-e57c-401e-bc2c-d55ecd548710.png" /></a>
 </details>
 
-<details>
+<details open>
 <summary>operating Sytems</summary>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@0f5afda0-c4e0-4fcf-b8d7-43bb6ea76694/56676516-6acf-425e-b127-ec100ee75df3.png" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@0f5afda0-c4e0-4fcf-b8d7-43bb6ea76694/c2af4fc0-4e2d-45c0-866d-1f8e3f83109a.png" width="400" height="300" /></a></a>
 </details>
 
 ### Contact me
