@@ -11,7 +11,7 @@ Hi! My name is Pius, I'm a full-stack software engineer who specializes in using
 </ul>
 </details>
 
-### Wakatime Stats
+### Codding Stats
 <details open>
 <summary>Codding Statistics</summary>
   <a href="#"><img src="https://wakatime.com/share/@0f5afda0-c4e0-4fcf-b8d7-43bb6ea76694/79b691b5-8658-4c8c-a836-bc51365066e1.png" width="540" height="400" /></a>
