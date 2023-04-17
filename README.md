@@ -14,6 +14,8 @@ Hi! My name is Pius, I'm a full-stack software engineer who specializes in using
 ### Codding Stats
 <details open>
 <summary>Codding Statistics</summary>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssekpius&count_private=true)
+  
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@0f5afda0-c4e0-4fcf-b8d7-43bb6ea76694/918287e9-0da1-4d58-a379-3628492dfe12.png" width="400" height="300" /></a>
 </details>
 
