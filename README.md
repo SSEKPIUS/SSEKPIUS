@@ -14,12 +14,12 @@ Hi! My name is Pius, I'm a full-stack software engineer who specializes in using
 ### Codding Stats
 <details open>
 <summary>Codding Statistics</summary>
-  <a href="#"><img src="https://wakatime.com/share/@0f5afda0-c4e0-4fcf-b8d7-43bb6ea76694/79b691b5-8658-4c8c-a836-bc51365066e1.png" width="540" height="400" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@0f5afda0-c4e0-4fcf-b8d7-43bb6ea76694/918287e9-0da1-4d58-a379-3628492dfe12.png" width="400" height="300" /></a>
 </details>
 
 <details open>
 <summary>operating Sytems</summary>
-  <a href="#"><img src="https://wakatime.com/share/@0f5afda0-c4e0-4fcf-b8d7-43bb6ea76694/c2af4fc0-4e2d-45c0-866d-1f8e3f83109a.png" width="540" height="400" /></a></a>
+  <a href="#"><img src="https://wakatime.com/share/@0f5afda0-c4e0-4fcf-b8d7-43bb6ea76694/c2af4fc0-4e2d-45c0-866d-1f8e3f83109a.png" width="400" height="300" /></a></a>
 </details>
 
 ### Contact me
